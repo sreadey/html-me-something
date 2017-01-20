@@ -3,7 +3,7 @@ body {
 	text-align: center;
 }
 
-h1 {
+#tit {
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
@@ -23,6 +23,10 @@ h2 {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	color: darkblue;
+}
+
+p.cap {
+	font-style: italic;
 }
 
 footer {
